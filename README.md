@@ -35,7 +35,7 @@ The dataset includes:
 ## 📊 Key KPIs
 - *Total Customers*
 - *Total Transaction Amount*
-- *Average Credit Score*
+- *Credit Utilization %*
 - *Delinquent Account Percentage*
 
 ---
@@ -44,13 +44,7 @@ The dataset includes:
 - *Spending by Category* – Bar Chart  
 - *Credit Limit vs Usage* – Comparison Bar Chart  
 - *Weekly Spending Trend* – Line Chart  
-- *Risk & Delinquency Analysis* – Categorical Analysis  
-- *Interactive Filters (Slicers)*:
-  - Card Category
-  - Gender
-  - Income Category
-  - Delinquent Account
-  - Date Range
+- *Risk Analysis* – Categorical Analysis  
 
 ---
 
